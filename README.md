@@ -141,3 +141,4 @@ CMU
 - UCB CS294
   - [视频](https://www.bilibili.com/video/av9802698/)
   - [笔记](https://zhuanlan.zhihu.com/c_150977189)
+  - [baidu](http://baidu.com)
